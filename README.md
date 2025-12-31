@@ -17,7 +17,7 @@
 * **Zoom:** Automatically manages **Crop** and **Scale** filters to ensure a 100% canvas fill.
 * **Smart Auto-Reset:** * **On-Screen Idle Reset:** Returns to center if the mouse stops moving for a set duration.
     * **Off-Screen Reset:** Automatically centers the view if the mouse leaves the designated monitor.
-* **Presets Included:** Instant setup for **TikTok (608x1080)** and **Square (1080x1080)** or custom formats.
+* **Presets Included:** Instant setup for **TikTok (608x1080)** and **Square (1080x1080)** or custom formats, if used in a small Canvas and crop suggest to use source clone.
 * **Deadzone** Deadzone linked to the preset or custom resolution not the original source size.
 * **Advanced Hotkeys:** 
     * Toggle/Enable Tracking
